@@ -1,0 +1,18 @@
+.product-list__list {
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: grid;
+}
+
+.products-list__msg {
+  text-align: center;
+  color: gray;
+  width: 100%;
+  padding: 20px 0;
+  display: block;
+}
+
+/*# sourceMappingURL=catalog.acd7de4f.css.map */
